@@ -1,0 +1,112 @@
+[
+  {
+    "id": "01",
+    "projectName": "Quick Sell",
+    "img": "https://i.ibb.co/b76cGsz/project1.png",
+    "description": "Quick Sell is a used mobile resale website with a dedicated admin panel. User, Seller, and admin roles added with the Google authentication system.",
+    "liveLink": "https://sell-old-phone-c422d.web.app/",
+    "clientLink": "https://github.com/coder-sadhin/quick-sell-clint",
+    "serverLink": "https://github.com/coder-sadhin/quick-sell-server",
+    "details": [
+      "⚫️ A complete website with dedicated admin panel",
+      "⚫️ There is a dashboard to manage admin panel and services.",
+      "⚫️ Used React-Router Advance Concepts And Protected Routes.",
+      "⚫️ Used Firebase For Authentication.",
+      "⚫️ You can Login with Google.",
+      "⚫️ Used Environment Variables To Hide Some Secret Data.",
+      "⚫️ Used Tailwind CSS Framework.",
+      "⚫️ Used React Icons for show icons."
+    ],
+    "screenshots": [
+      "https://i.ibb.co/b76cGsz/project1.png",
+      "https://i.ibb.co/qjW9KPm/1.png",
+      "https://i.ibb.co/Vjgxbsp/5.png",
+      "https://i.ibb.co/t33Jnzg/4.png",
+      "https://i.ibb.co/VJj7n0L/3.png"
+    ],
+    "technology": [
+      "React",
+      "React Router",
+      "Tailwind CSS",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Firebase",
+      "JWT"
+    ]
+  },
+  {
+    "id": "02",
+    "projectName": "Photography Center",
+    "img": "https://i.ibb.co/bLX86rj/2-1-1.png",
+    "description": "This is a photography service website including add or remove services. Form to leave reviews for the clients to show on the details page. Option to add more services to all service page.",
+    "liveLink": "https://photography-center.web.app/",
+    "clientLink": "https://github.com/coder-sadhin/photography-secter-clint",
+    "serverLink": "https://github.com/coder-sadhin/photography-secter-server",
+    "details": [
+      "⚫️ Used React Router V6 For Routes.",
+      "⚫️ Used React-Router Advance Concepts And Protected Routes.",
+      "⚫️ Used Firebase For Authentication.",
+      "⚫️ You can Login with Google.",
+      "⚫️ Used Environment Variables To Hide Some Secret Data.",
+      "⚫️ Used Tailwind CSS Framework.",
+      "⚫️ Used React Icons for show icons.",
+      "⚫️ Used react-photo-view Package to view image in full screen."
+    ],
+    "screenshots": [
+      "https://i.ibb.co/bLX86rj/2-1-1.png",
+      "https://i.ibb.co/ZfyXpcd/2-1-2.png",
+      "https://i.ibb.co/q5nYTn0/2-1-3.png",
+      "https://i.ibb.co/F7MQ6Ng/2-1-4.png",
+      "https://i.ibb.co/Z8xwq1s/2-1-5.png"
+    ],
+    "technology": [
+      "React",
+      "React Router",
+      "Tailwind CSS",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Firebase",
+      "JWT",
+      "React Photo View"
+    ]
+  },
+  {
+    "id": "03",
+    "projectName": "Sadhin Tutorial",
+    "img": "https://i.ibb.co/jrYThQR/3-1.png",
+    "description": "E-learning Website for web developers. Log In method with private route feature. Option to download course details page as a pdf.",
+    "liveLink": "https://sadhin-tutorials.web.app/",
+    "clientLink": "https://github.com/coder-sadhin/sadhin-tutorial-clint",
+    "serverLink": "https://github.com/coder-sadhin/sadhin-tutorial-server",
+    "details": [
+      "⚫️ Used React Router V6 For Routes.",
+      "⚫️ Used React-Router Advance Concepts And Protected Routes.",
+      "⚫️ Used Firebase For Authentication.",
+      "⚫️ You can Login with Google.",
+      "⚫️ Used Environment Variables To Hide Some Secret Data.",
+      "⚫️ Used Tailwind CSS Framework.",
+      "⚫️ Used React Icons for show icons.",
+      "⚫️ Used React-To-Pdf Package to generate and download PDF."
+    ],
+    "screenshots": [
+      "https://i.ibb.co/jrYThQR/3-1.png",
+      "https://i.ibb.co/kmtWj09/3-2.png",
+      "https://i.ibb.co/9GtLqLy/3-3.png",
+      "https://i.ibb.co/R0sZ0vV/3-4.png",
+      "https://i.ibb.co/4pzGLLt/3-5.png"
+    ],
+    "technology": [
+      "React",
+      "React Router",
+      "Tailwind CSS",
+      "daisyUI",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Firebase",
+      "React to PDF Package"
+    ]
+  }
+]
